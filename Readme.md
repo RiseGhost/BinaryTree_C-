@@ -29,3 +29,10 @@ O software tem um sistema básico que premite detetar alguns erros de input dado
 
 ## Algumas imagens do software:
 
+<img src="https://user-images.githubusercontent.com/91985039/191490318-b3acf871-6d50-4ba7-89c6-57c106a77a36.jpg">
+
+<img src="https://user-images.githubusercontent.com/91985039/191490324-5adf38ce-ddc9-4eff-b401-c24717e698a0.jpg">
+
+<img src="https://user-images.githubusercontent.com/91985039/191490327-b68c4cd3-2036-4f65-89fd-19a29a572bfc.jpg">
+
+<img src="https://user-images.githubusercontent.com/91985039/191490332-3604f46e-afb3-47e7-8cf0-191670928a52.jpg">
